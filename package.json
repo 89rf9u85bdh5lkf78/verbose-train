@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Привет",
+  "main": "test.js",
+  "scripts": {
+    "lab1": "\"C:\\Users\\user\\Desktop\\node-v20.11.1-win-x64\\node.exe\" .\test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
